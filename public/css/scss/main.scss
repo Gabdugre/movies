@@ -1,0 +1,26 @@
+// Colors 
+:root {
+	--primary-color: #2c3e50;
+	--active-color: #b65f18;
+	--background-color: #2c3e50;
+	--default-color: #2c3e50;
+}
+
+// Fonts
+$title-font: 'Roboto', sans-serif;
+$default-font: 'Arial', sans-serif;
+
+
+// Imports
+@import '_reset';
+@import 'default';
+@import 'mixins';
+// @import '_fonts';
+// @import '_default';
+@import 'header';
+// @import '_footer';
+// @import '_home';
+// @import '_contact';
+// @import '_about';
+// @import 'blog/category';
+// 

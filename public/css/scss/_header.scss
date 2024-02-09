@@ -1,0 +1,13 @@
+header {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: var(--background-color);
+	
+	input[type="submit"] {
+
+		@include button;
+		background-color: var(--primary-color);
+
+	}
+}
+

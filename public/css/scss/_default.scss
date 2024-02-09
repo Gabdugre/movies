@@ -1,0 +1,18 @@
+* {
+box-sizing: border-box;
+}
+
+body {
+    background: white;
+    font-size: 16px;
+    font-family: $default-font;
+    color: #000000;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+
+}
